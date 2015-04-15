@@ -2,7 +2,7 @@
 
 ## Travel
 
-- ~~Visit Japan~~
+- <strike>Visit Japan</strike>
 - Visit all 7 continents
 - Take Susan to Bora Bora for two weeks
 - ~~Visit Iceland~~

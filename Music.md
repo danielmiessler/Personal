@@ -8,6 +8,13 @@ I like three main types of music:
 
 The band that most captures my taste in metal is Behemoth. The band that most captures my interest in EDM is Hardwell. The band that most captures my interest in post-metal is Isis.
 
+## Bands/Artists that I see as true art
+
+I see all good music as art, obviously, but some music hits me either through content or craft, as truly artistic. I am not an expert in this. In fact quite the opposite. I simply know that when I listen to these artists I am given a feeling like no other. A feeling of deep connection, compassion, empathy, and meaning. 
+
+1. Why?
+2. Kimya Dawson
+
 ## All-time favorites
 
 My all-time favorite group is Tool.

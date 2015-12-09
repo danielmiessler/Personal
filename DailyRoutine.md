@@ -4,7 +4,8 @@ This routine is for all weekdays&mdash;Monday through Friday. If I miss a day I 
 
 ## Morning
 
-1. Five minute mediation using the Headspace mobile app
+1. Five ten mediation using the Headspace application
+2. Two minutes of affirmations (from notes)
 2. One set of pushups (to exhaustion)
 3. 500 meters on my rower
 
@@ -15,6 +16,10 @@ This routine is for all weekdays&mdash;Monday through Friday. If I miss a day I 
 - Avoid super sweet foods and sauces, especially in large quantities
 - Eat slower
 - Eat smaller portions
+
+## Bedtime
+
+- Two minutes of affirmations
 
 ## Sleep
 

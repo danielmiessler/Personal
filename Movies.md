@@ -6,6 +6,7 @@
 - Napoleon Dynamite
 - Her
 - Groundhog Day
+* Guardians of the Galaxy
 - It’s a Wonderful Life
 
 ## Need to see
@@ -13,7 +14,6 @@
 - Pushing Daisies
 - Donny Darko
 - Momento
-- Iron Giant
 - Nobody Knows
 - Inc
 - Primer

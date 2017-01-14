@@ -11,6 +11,10 @@
 
 ## Need to see
 
+- Grand Budapest Hotel
+- Moonrise Kingdom
+- Darjeeling Unlimited
+- The Life Aquatic
 - Pushing Daisies
 - Donny Darko
 - Momento
